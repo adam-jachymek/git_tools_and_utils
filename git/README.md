@@ -3,6 +3,7 @@ Aliases and functions to speed up your git workflow.
 
 ### Requirements
 - git 2.6 or newer
+- fzf https://github.com/junegunn/fzf
 
 ### Installation
 ```sh
