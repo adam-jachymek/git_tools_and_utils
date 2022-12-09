@@ -10,6 +10,7 @@ Aliases and functions to speed up your git workflow.
 mkdir -p ~/p_utils
 curl 'https://raw.githubusercontent.com/polakowski/tools_and_utils/master/git/git.sh' -o ~/p_utils/git.sh
 echo 'source ~/p_utils/git.sh' >> ~/.bashrc
+echo 'source ~/p_utils/git.sh' >> ~/.zshrc
 ```
 
 ### Updating to the latest version
